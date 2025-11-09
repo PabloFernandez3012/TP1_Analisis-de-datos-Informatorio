@@ -22,3 +22,5 @@ SQLAlchemy
 Entorno: Google Colab
 
 Repositorio: GitHub (público)
+
+Fuente CSV: https://datos.gob.ar/dataset/salud-vigilancia-enfermedades-por-virus-dengue-zika/archivo/salud_255440b0-d8b2-4247-87d2-91dfec29eb0f
